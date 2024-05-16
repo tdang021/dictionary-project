@@ -10,7 +10,7 @@ function App() {
           <Dictionary />
         </main>
       </div>
-      <footer className="footer pt-2">
+      <footer className="footer pt-2 text-center">
         This project is coded by Tiffany and is hosted on{" "}
         <a
           href="https://github.com/tdang021/dictionary-project"
